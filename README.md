@@ -30,5 +30,11 @@ Usage:
   - Run `python train_logistic_regression.py` to train the model
   - Run `python visualize.py` to see decision boundaries
 
+Results/Visualization:
+ - Includes plots with:
+   - Scatter of points (inside/outside of circle)
+   - Linear decision boundary learned by logistic regression
+
+
 
 
