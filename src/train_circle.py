@@ -59,7 +59,7 @@ if __name__ == "__main__":
 
     legend_handles = [
         Line2D([], [], linestyle="None", marker="o", markersize=6, label="Inside circle"),
-        Line2D([], [], linestyle="None", marker="o", markersize=6, label="Outside circle"),
+        Line2D([], [], linestyle="None", marker="o", markersize=6, color="tab:orange", label="Outside circle"),
         Line2D([], [], linestyle="--", linewidth=2, label="True boundary"),
         Line2D([], [], linestyle="-",  linewidth=2, label="Learned boundary (nonlinear)"),
     ]
