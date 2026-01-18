@@ -38,7 +38,11 @@ Results:
     - Improved expressiveness via feature engineering
     - Accuracy ≈ **99%**
     - Learned decision boundary closely matches the true circle 
+    <img width="1200" height="1200" alt="nonlinear_boundary" src="https://github.com/user-attachments/assets/fbf619e1-1d68-4090-9b16-d326502b4ab5" />
+    <img width="1280" height="960" alt="loss_curve_nonlinear" src="https://github.com/user-attachments/assets/720384c4-062f-46c4-b080-2d5aba760a3d" />
+
   
+
   
 Implementation Details:
   - **No ML libraries used** (Numpy + Matplotlib only)
